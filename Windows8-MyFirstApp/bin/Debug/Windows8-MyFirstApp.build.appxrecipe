@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RYANS</Machine>
+    <WindowsUser>ryan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d7e31dea-3681-4e98-8043-542e319a9899</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\Windows8-MyFirstApp.exe">
+      <PackagePath>Windows8-MyFirstApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Cat sounds\cat_meow_001.mp3">
+      <PackagePath>Assets\Cat sounds\cat_meow_001.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Cat sounds\cat_meow_002.mp3">
+      <PackagePath>Assets\Cat sounds\cat_meow_002.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Cat sounds\cat_meow_003.mp3">
+      <PackagePath>Assets\Cat sounds\cat_meow_003.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Guss on couch.jpg">
+      <PackagePath>Assets\Guss on couch.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Guss standing pose.jpg">
+      <PackagePath>Assets\Guss standing pose.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,35 @@
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\App.xbf
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\MainPage.xbf
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\Windows8-MyFirstApp.exe
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\Windows8-MyFirstApp.pdb
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\resources.pri
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\AppxManifest.xml
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\Windows8-MyFirstApp.build.appxrecipe
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\App.g.i.cs
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\App.g.cs
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\MainPage.g.i.cs
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\MainPage.g.cs
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\XamlTypeInfo.g.cs
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\App.xaml
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\MainPage.xaml
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\App.xbf
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\MainPage.xbf
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\XamlSaveStateFile.xml
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\Windows8-MyFirstApp.exe
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\Windows8-MyFirstApp.pdb
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\priconfig.xml
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\priconfig.xml.intermediate
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\layout.resfiles
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\layout.resfiles.intermediate
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\resources.resfiles
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\resources.resfiles.intermediate
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\pri.resfiles
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\pri.resfiles.intermediate
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\qualifiers.txt
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\qualifiers.txt.intermediate
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\ryan\documents\visual studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\Assets\Cat sounds\cat_meow_001.mp3
+C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\Assets\Cat sounds\cat_meow_002.mp3
+C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\Assets\Cat sounds\cat_meow_003.mp3
+C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\Assets\Guss standing pose.jpg

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RYANS</Machine>
+    <WindowsUser>ryan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d7e31dea-3681-4e98-8043-542e319a9899</PackageIdentityName>
+    <RegisteredManifestChecksum>E1027620DD16C3A985A9D05E9F35E5763B6456AE62E1B49E33803185F14F2FE9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d7e31dea-3681-4e98-8043-542e319a9899_1.0.0.0_neutral__f2gs7qb5mya4w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d7e31dea-3681-4e98-8043-542e319a9899_f2gs7qb5mya4w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d7e31dea-3681-4e98-8043-542e319a9899</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ryan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-28T06:28:20.927</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\Windows8-MyFirstApp.exe">
+      <PackagePath>Windows8-MyFirstApp.exe</PackagePath>
+      <Modified>2014-05-28T06:59:03.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Cat sounds\cat_meow_001.mp3">
+      <PackagePath>Assets\Cat sounds\cat_meow_001.mp3</PackagePath>
+      <Modified>2014-05-27T03:33:28.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Cat sounds\cat_meow_002.mp3">
+      <PackagePath>Assets\Cat sounds\cat_meow_002.mp3</PackagePath>
+      <Modified>2014-05-27T03:33:28.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Cat sounds\cat_meow_003.mp3">
+      <PackagePath>Assets\Cat sounds\cat_meow_003.mp3</PackagePath>
+      <Modified>2014-05-27T03:33:28.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Guss on couch.jpg">
+      <PackagePath>Assets\Guss on couch.jpg</PackagePath>
+      <Modified>2014-05-11T00:13:09.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Guss standing pose.jpg">
+      <PackagePath>Assets\Guss standing pose.jpg</PackagePath>
+      <Modified>2014-05-11T00:13:52.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T12:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T12:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T12:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-10T23:59:52.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-05-10T23:53:03.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-05-10T23:53:40.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-05-28T06:28:20.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-05-28T06:28:20.764</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
