@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RYANS</Machine>
+    <WindowsUser>ryan</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1e7b29c9-ce3f-4d3b-bd60-29cf13d3436f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Testing\CatApp.Tests\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Testing\CatApp.Tests\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Testing\CatApp.Tests\bin\Debug\CatApp.Tests.dll">
+      <PackagePath>CatApp.Tests.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Testing\CatApp.Tests\bin\Debug\CatApp.Tests.pdb">
+      <PackagePath>CatApp.Tests.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\Windows8-MyFirstApp.pdb">
+      <PackagePath>Windows8-MyFirstApp.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSTestFramework\11.0\References\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.AppContainer.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.UnitTestFramework.AppContainer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSTestFramework\11.0\References\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\Windows8-MyFirstApp.exe">
+      <PackagePath>Windows8-MyFirstApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Core.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSTestFramework\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.ObjectModel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Utilities.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Utilities.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\vstest.executionengine.appcontainer.exe">
+      <PackagePath>vstest.executionengine.appcontainer.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\vstest.executionengine.appcontainer.x86.exe">
+      <PackagePath>vstest.executionengine.appcontainer.x86.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Testing\CatApp.Tests\Images\UnitTestLogo.scale-100.png">
+      <PackagePath>Images\UnitTestLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Testing\CatApp.Tests\Images\UnitTestSmallLogo.scale-100.png">
+      <PackagePath>Images\UnitTestSmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Testing\CatApp.Tests\Images\UnitTestSplashScreen.scale-100.png">
+      <PackagePath>Images\UnitTestSplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Testing\CatApp.Tests\Images\UnitTestStoreLogo.scale-100.png">
+      <PackagePath>Images\UnitTestStoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Cat sounds\17224^Sound-Effect---Cat-Meow-01.mp3">
+      <PackagePath>Assets\Cat sounds\17224^Sound-Effect---Cat-Meow-01.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Cat sounds\87580^Sound-Effect---Cat-Fight.mp3">
+      <PackagePath>Assets\Cat sounds\87580^Sound-Effect---Cat-Fight.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Cat sounds\cat_meow_001.mp3">
+      <PackagePath>Assets\Cat sounds\cat_meow_001.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Cat sounds\cat_meow_002.mp3">
+      <PackagePath>Assets\Cat sounds\cat_meow_002.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Cat sounds\cat_meow_003.mp3">
+      <PackagePath>Assets\Cat sounds\cat_meow_003.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Guss standing pose.jpg">
+      <PackagePath>Assets\Guss standing pose.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\Windows8-MyFirstApp.xr.xml">
+      <PackagePath>Windows8-MyFirstApp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Testing\CatApp.Tests\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -20,13 +20,13 @@
     <AppXManifest Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-06-01T15:47:45.113</Modified>
+      <Modified>2014-06-01T23:03:37.473</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\Windows8-MyFirstApp.exe">
       <PackagePath>Windows8-MyFirstApp.exe</PackagePath>
-      <Modified>2014-06-01T15:47:44.751</Modified>
+      <Modified>2014-06-01T23:03:36.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\Cat sounds\17224^Sound-Effect---Cat-Meow-01.mp3">
       <PackagePath>Assets\Cat sounds\17224^Sound-Effect---Cat-Meow-01.mp3</PackagePath>
@@ -70,7 +70,7 @@
     <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-06-01T15:44:25.768</Modified>
+      <Modified>2014-06-01T22:39:40.351</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\Common\ReadMe.txt">
       <PackagePath>Common\ReadMe.txt</PackagePath>
@@ -90,7 +90,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ryan\Documents\Visual Studio 2013\Projects\Windows8-MyFirstApp\Windows8-MyFirstApp\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-06-01T15:47:45.047</Modified>
+      <Modified>2014-06-01T23:03:37.296</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

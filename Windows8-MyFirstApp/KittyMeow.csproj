@@ -121,12 +121,6 @@
     <AppxManifest Include="Package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
-    <None Include="bin\Debug\AppX\App.xbf" />
-    <None Include="bin\Debug\AppX\Assets\Thumbs.db" />
-    <None Include="bin\Debug\AppX\MainPage.xbf" />
-    <None Include="bin\Debug\AppX\microsoft.system.package.metadata\S-1-5-21-4062621752-4288346852-1912539734-1001.pckgdep" />
-    <None Include="bin\Debug\AppX\resources.pri" />
-    <None Include="bin\Debug\AppX\vs.appxrecipe" />
     <None Include="Windows8-MyFirstApp_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
@@ -152,20 +146,6 @@
     <Content Include="Assets\SmallLogo.scale-100.png" />
     <Content Include="Assets\SplashScreen.scale-100.png" />
     <Content Include="Assets\StoreLogo.scale-100.png" />
-    <Content Include="bin\Debug\AppX\AppxManifest.xml" />
-    <Content Include="bin\Debug\AppX\Assets\Cat sounds\17224^Sound-Effect---Cat-Meow-01.mp3" />
-    <Content Include="bin\Debug\AppX\Assets\Cat sounds\87580^Sound-Effect---Cat-Fight.mp3" />
-    <Content Include="bin\Debug\AppX\Assets\Cat sounds\cat_meow_001.mp3" />
-    <Content Include="bin\Debug\AppX\Assets\Cat sounds\cat_meow_002.mp3" />
-    <Content Include="bin\Debug\AppX\Assets\Cat sounds\cat_meow_003.mp3" />
-    <Content Include="bin\Debug\AppX\Assets\Guss standing pose.jpg" />
-    <Content Include="bin\Debug\AppX\Assets\Logo.scale-100.png" />
-    <Content Include="bin\Debug\AppX\Assets\SmallLogo.scale-100.png" />
-    <Content Include="bin\Debug\AppX\Assets\SplashScreen.scale-100.png" />
-    <Content Include="bin\Debug\AppX\Assets\StoreLogo.scale-100.png" />
-    <Content Include="bin\Debug\AppX\Common\ReadMe.txt" />
-    <Content Include="bin\Debug\AppX\Windows8-MyFirstApp.exe" />
-    <Content Include="bin\Debug\AppX\Windows8-MyFirstApp.xr.xml" />
     <Content Include="Common\ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
