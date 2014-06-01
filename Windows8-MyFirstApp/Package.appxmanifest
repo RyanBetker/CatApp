@@ -15,8 +15,10 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Windows8_MyFirstApp.App">
-      <m2:VisualElements DisplayName="KI TAY" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="Kitty related" ForegroundText="light" BackgroundColor="#464646">
-        <m2:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="gray" />
+      <m2:VisualElements DisplayName="Guss - our Kit-aye" Square150x150Logo="Assets\Logo.png" 
+        Square30x30Logo="Assets\SmallLogo.png" Description="Kitty related" 
+        ForegroundText="light" BackgroundColor="#464646">
+        <m2:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="black" />
       </m2:VisualElements>
     </Application>
   </Applications>
