@@ -20,10 +20,21 @@ namespace Windows8_MyFirstApp
         private bool continueMoving;
 
         private CancellationTokenSource tokenSource = new CancellationTokenSource();
+
+        public Direction CurrentDirection { get; set; }
             
         public FrameworkElementAnimator(FrameworkElement control)
         {
             this.control = control;
+        }
+
+        internal async void MoveToLeftBorder(int movementSize)
+        {
+            CurrentDirection = Direction.Left;
+
+            await Window.Current.Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.High,
+                () => MoveTo(0, -movementSize));
+
         }
 
         internal async void MoveToRightBorder(int movementSize)
@@ -32,52 +43,35 @@ namespace Windows8_MyFirstApp
             var maxWidth = Window.Current.Bounds.Width;
 
             //reset the token
-            tokenSource = new CancellationTokenSource();
-
-            var task = Task.Run(() =>  MoveTo(movementSize, maxWidth, tokenSource.Token), tokenSource.Token);
-            await task;
+            //tokenSource = new CancellationTokenSource();
+            //new System.ServiceModel.Dispatcher.ClientOperation();
+            
+            await Window.Current.Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.High,
+                () => MoveTo(maxWidth, movementSize));
         }
 
-        private async Task MoveTo(int movementSize, double maxWidth, CancellationToken cancellationToken)
+        private async Task MoveTo(double endPositionX, int movementSize)//, CancellationToken cancellationToken)
         {
-            tokenSource.Cancel();//cancel any existing stuff
+            //tokenSource.Cancel();//cancel any existing stuff
             
             continueMoving = false;
-            //Give the other thread time to stop
-            await Task.Delay(TimeSpan.FromMilliseconds(10));
+            //Could try to Give the other thread time to stop
+            //await Task.Delay(TimeSpan.FromMilliseconds(10));
 
             continueMoving = true;//reset the flag so we can start moving
 
-            do
+            double newLeftPosition = 0;
+            var moveCalc = new ElementMovementCalculator(leftPosition: control.Margin.Left, endPositionX: endPositionX, elementWidth: control.Width);
+
+            while (moveCalc.CalculateOneMovement(movementSize, out newLeftPosition))
             {
                 var newMargin = control.Margin;
-                newMargin.Left += movementSize;
+                newMargin.Left = newLeftPosition;
 
-                //Have we pushed the image all the way right?
-                if (cancellationToken.IsCancellationRequested == false && newMargin.Left + control.Width < maxWidth)
-                {
-                    await Task.Delay(TimeSpan.FromMilliseconds(1));
+                await Task.Delay(TimeSpan.FromMilliseconds(.5));
 
-                    control.Margin = newMargin;
-                }
-                else
-                {
-                    break;
-                }
-            } while (true);
-        }
-
-        public Direction CurrentDirection { get; set; }
-
-        internal async void MoveToLeftBorder(int movementSize)
-        {
-            CurrentDirection = Direction.Left;
-            //reset the token
-            tokenSource = new CancellationTokenSource();
-            var task = Task.Run(() =>
-                MoveTo(-movementSize, 0, tokenSource.Token), tokenSource.Token);
-
-            await task;
+                control.Margin = newMargin;
+            }
         }
     }
 }
