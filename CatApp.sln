@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KittyMeow", "Windows8-MyFirstApp\KittyMeow.csproj", "{6CC814DC-D0F8-45C4-AB3C-E12276FB92C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KittyMeow", "CatApp.UI\KittyMeow.csproj", "{6CC814DC-D0F8-45C4-AB3C-E12276FB92C1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatApp.Tests", "Testing\CatApp.Tests\CatApp.Tests.csproj", "{AECC8726-4BFA-4A38-B43D-02716D3CB8D3}"
 EndProject

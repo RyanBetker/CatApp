@@ -137,7 +137,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Windows8-MyFirstApp\KittyMeow.csproj">
+    <ProjectReference Include="..\..\CatApp.UI\KittyMeow.csproj">
       <Project>{6cc814dc-d0f8-45c4-ab3c-e12276fb92c1}</Project>
       <Name>KittyMeow</Name>
     </ProjectReference>
